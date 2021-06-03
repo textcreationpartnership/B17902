@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The farmers catechize, or A religious parly between the father and the son Being a profitable and pleasing discourse running thorough the whole scripture, and it is dedicated to all those honest families that desires Christ may dwell in their hearts. Written by William Blake, May 1. 1657.</title>
+            <author>W. B. (William Blake), fl. 1650-1670.</author>
+         </titleStmt>
+         <extent>Approx. 69KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17902</idno><idno type="EEBO-CITATION">99826272</idno>
+  <idno type="VID">206714</idno>
+  <idno type="EEBO-PROQUEST">2240859834</idno>
+  
+            <idno type="STC">Wing B3151B</idno>
+            <idno type="PROQUEST">99826272</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826272e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206714)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1807:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The farmers catechize, or A religious parly between the father and the son Being a profitable and pleasing discourse running thorough the whole scripture, and it is dedicated to all those honest families that desires Christ may dwell in their hearts. Written by William Blake, May 1. 1657.</title>
+                  <author>W. B. (William Blake), fl. 1650-1670.</author>
+               </titleStmt>
+               <extent>[2], 60+ p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Mr. Butler in Lincolns-Inn-fields; neer the Three-Tun Tavern, by the Market-place,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; lacks leaf B4 and all after D8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206714:1"/>
+            <p>The <hi>Farmers</hi> CATECHIZE, OR A Religious Parly be<g ref="char:EOLhyphen"/>tween the Father and the Son.</p>
+            <p>Being a profitable and plea<g ref="char:EOLhyphen"/>sing Discourse running tho<g ref="char:EOLhyphen"/>rough the whole Scripture, and it is Dedicated to all those honest Families that desires Christ may dwell in their hearts.</p>
+            <p>Written by <hi>William Blake,</hi> May 1. 1657.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by Mr. <hi>Butler</hi> in <hi>Lincolns-Inn-fields,</hi> neer the <hi>Three-Tun</hi> Tavern, by the Market-place, 1657.</p>
+            <pb facs="tcp:206714:2"/>
+            <pb facs="tcp:206714:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:206714:3"/>
+            <pb n="1" facs="tcp:206714:3"/>
+            <head>The <hi>Farmers</hi> CATECHIZE.</head>
+            <p>
+               <hi>Father.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">C</seg>Ome Sirrah, if you will be a good boy, learn your Cate<g ref="char:EOLhyphen"/>chize, and then teach your Brothers and Sisters, I will give you a farthing.</p>
+            <p>
+               <hi>Son.</hi> Well, Sir, do you ask and I will answer.</p>
+            <p>
+               <hi>Father.</hi> Quest. <hi>Who was the first man God mad?</hi>
+            </p>
+            <p>Son. <hi>Answ.</hi> Adam.</p>
+            <p>Q. <hi>What did he make him of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Dust.</p>
+            <p>Q. <hi>And what did he make</hi> Eve <hi>of?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Rib of his side, and she sided with the Serpent, and so brought death
+<pb n="2" facs="tcp:206714:4"/>upon him and all his posterity.</p>
+            <p>Q. <hi>What did God do then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Promise Jesus Christ, and said that he <hi>should break the Serpents head, Gen.</hi> 3.15. that is the power and Kingdom of the Devil.</p>
+            <p>Q. <hi>Who was Abrahams Son?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Isaac.</p>
+            <p>Q. <hi>And who Isaac's?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jacob.</p>
+            <p>Q. <hi>And who Jacobs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Joseph, <hi>Matt.</hi> 1.2.</p>
+            <p>Q. <hi>And who Josephs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ephraim, and Manasseth.</p>
+            <p>Q. <hi>What did God say by</hi> Moses?</p>
+            <p>
+               <hi>A.</hi> A Prophet shall the Lord your God raise up like unto me, him shall you hear in all things; and it shall come to pass, that him that will not hear him, shall be cut off from this People, <hi>Deut.</hi> 18.15.</p>
+            <p>Q. <hi>And who was this Prophet?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ.</p>
+            <p>Q. <hi>And what is Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Son of the living God, and Saviour of the world, <hi>Iohn</hi> 1.29.</p>
+            <p>Q. <hi>What did Samuel say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Speak Lord for thy servant hears,
+<pb n="3" facs="tcp:206714:4"/>and thought it was <hi>Ely,</hi> when indeed it was the Lord that called him, 1 <hi>Sam.</hi> 30.10.</p>
+            <p>Q. <hi>What did Joshua say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I and my house will serve the Lord, and a good thing it is for Fami<g ref="char:EOLhyphen"/>lies so to do; and in the mean time cur<g ref="char:EOLhyphen"/>sed are all those that call not on him, <hi>Ier.</hi> 10.25.</p>
+            <p>Q. <hi>What did good Nehemiah say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Remember O Lord I have walked before thee with an upright heart, 2 <hi>Kin.</hi> 20.3. a good life and a good death al<g ref="char:EOLhyphen"/>waies goes together, and God will give that man an endless life that liveth unto him, and daily dyeth unto sin.</p>
+            <p>Q. <hi>What did Iob say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Naked came I out of my mothers womb, and naked shall I return, the Lord gives, and the Lord takes, and blessed be his holy name; in the mean time I know that my Redeemer lives, and I shall see him with these eyes.</p>
+            <p>Q. <hi>And if a man die shall he live a<g ref="char:EOLhyphen"/>gain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, all the daies of my life will I wait, till my change come, <hi>Iob</hi> 14.14.</p>
+            <p>Q. <hi>What did David say?</hi>
+            </p>
+            <pb n="4" facs="tcp:206714:5"/>
+            <p>
+               <hi>A.</hi> Thy servant Lord, thy servant, and yet a King of the East; man walks in a vainsh dow, and gets riches; Lord teach me to number my daies, that I may apply my heart unto wisdom.</p>
+            <p>Q. <hi>What did Solomon say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Vanity of vanities, all is vanity, <hi>Eccles.</hi> 1.2. and this is as much as any thing to set thy heart upon that which is not, or to chuse a present good before a future, which abides for ever and e<g ref="char:EOLhyphen"/>ver: Riches have wings and fly away, <hi>Prov.</hi> 23.5. the world dayly passeth away, and good daies, and bad that are past, are much at one.</p>
+            <p>Q. <hi>But what doth he say in Eccles. the last, vers.</hi> 1?</p>
+            <p>
+               <hi>A.</hi> Remember thy Creator in the daies of thy youth; before death or the evil day comes, and it is usually so long before we begin to be wise, or mind what we should, and then it is hard to mind as we should, or do any thing else, but gasp and die.</p>
+            <p>Q. <hi>What is that you call the Song of Songs?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Solomons Songs, the Canticles.</p>
+            <p>Q. <hi>What is the burden of that Song?</hi>
+            </p>
+            <pb n="5" facs="tcp:206714:5"/>
+            <p>
+               <hi>A.</hi> Love, love, Christs love to the Church, &amp; the Churches love to Christ, <hi>Cant.</hi> 1.2.</p>
+            <p>Q. <hi>What doth Christ say of his Church?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou art all fair my Sister, my Spouse.</p>
+            <p>Q. <hi>What doth the Church say of Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou art white and ruddy, the chiefest of ten thousard, <hi>Cant.</hi> 5.10.</p>
+            <p>Q. <hi>Why is Christ said to be white and ruddy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In respect of his Humanity and Divinity, his suffering and innocency; he was God-Man, perfect God and per<g ref="char:EOLhyphen"/>fect Man, born of a Virgin and suffer<g ref="char:EOLhyphen"/>ed with a thief.</p>
+            <p>Q. <hi>Whath doth Isaiah say concerning Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Surely he hath born our griefs, the chastisement of our peace was upon his shoulders, and we like sheep have gone astray, and thou hast laid upon him the iniquity of us all, <hi>Isa.</hi> 53.4. There's a good boy, learn this Chapter and re<g ref="char:EOLhyphen"/>member it well.</p>
+            <p>Q. <hi>What did Ieremy wish?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> O that his head were a fountain of tears, that he might weep for the slain
+<pb n="6" facs="tcp:206714:6"/>of the Daughter of his People, <hi>Ier.</hi> 9.1. the Jews in captivity; and the whole <hi>Lamentation</hi> is a sad complaint of the Prophet for the afflictions of the Jewes, the people of God under the <hi>Babylonian</hi> Captivity.</p>
+            <p>Q. <hi>What doth the Church say in the midst of her afflictions?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Thou art my portion saith my soul, <hi>Lam.</hi> 3.24. and my souls delight is in God, saith <hi>David;</hi> and Gods de<g ref="char:EOLhyphen"/>light is in them that excel in virtue, es<g ref="char:EOLhyphen"/>pecially faith, love, and humility; and pretious in his sight is the death of all his holy ones, <hi>Psal.</hi> 116.15. what ever men do deem.</p>
+            <p>Q. <hi>But what doth Eezekiel say concern<g ref="char:EOLhyphen"/>ing God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> First, that he desires not the death of a sinner, but that he may live and never die, <hi>Ezek.</hi> 18.21. and he that lives and believes in me shall never dye saith Christ, <hi>Iohn</hi> 11.26. yet those that live and believe not that he is he, shal die in their sins, <hi>Iohn</hi> 8.21. But <hi>Ezekiel</hi> tells us, that he loved and washt us when we were in our blood, and pitied us then, when no eye pitied us to do us a<g ref="char:EOLhyphen"/>ny
+<pb n="7" facs="tcp:206714:6"/>good. ye then was the time of love, and that was love indeed, and a loving God was he to look upon us then.</p>
+            <p>Q. <hi>What doth Daniel say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In the daies of those Kings shall the God of heaven set up a Kingdom, that shall never be taken or pass away, <hi>Dan:</hi> 2.44.</p>
+            <p>Q. <hi>But what Kingdom was that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ.</p>
+            <p>Q. <hi>And what Kingdomes were those that were to be destroyed and pass away?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> All but his in conclusion.</p>
+            <p>Q. <hi>Who shall be chief in that King<g ref="char:EOLhyphen"/>dom?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He himself, and at last God shall be all in all, 1 <hi>Cor:</hi> 15:28.</p>
+            <p>Q. <hi>What doth Hosea say concerning Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Take away all iniquity, and re<g ref="char:EOLhyphen"/>ceive us graciously, so wil we render the calves of our lips, <hi>Hos.</hi> 14.3.</p>
+            <p>Q. <hi>What doth he say concerning death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> O death I will be thy death, O grave I will be thy destruction, repen<g ref="char:EOLhyphen"/>tance is hid from mine eyes, <hi>Hos:</hi> 13:14. and it is Christ alone that has destroyed sin, death, hell, and the grave, 1 <hi>Cor:</hi> 15:55.</p>
+            <pb n="8" facs="tcp:206714:7"/>
+            <p>Q. <hi>What doth God speak by his Prophet Ioel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It shall come to pass in those daies saith the Lord, meaning those times which we are near, that I will pour out my Spirit upon all flesh, <hi>Ioel</hi> 2.28. and your sons and your daughters shall pro<g ref="char:EOLhyphen"/>phesie; a text Ministers seldom preach on, yet saith <hi>Paul</hi> covet the best gifts, especially that you may prophesie, 1 <hi>Cor.</hi> 14.1. that is open Scripture sayings and tell them unto others. All other Pro<g ref="char:EOLhyphen"/>phesies are ceast above this thousand years, and Ministers know no more than others, unless the Lord reveal it; and the secrets of the Lord, are most with them that fear him most, <hi>Psal.</hi> 34. be they what they will of this or that or t'other calling.</p>
+            <p>Q. <hi>What doth the Prophet Amos say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>chap.</hi> 5. <hi>vers.</hi> 6. Seek ye me and ye shall live, and a living God is to be sought before a dying World: And in finding of God there is a heaven, and a heaven; first a heaven in the soul of them that seek him in his Son, and grace revealed by his Son: And secondly, there is a heaven for the souls of those
+<pb n="9" facs="tcp:206714:7"/>that seek him, where God and Christ▪ and all the saved creatures are.</p>
+            <p>Q. <hi>What doth Obadiah say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Though thou exaltest thy self as the Eagle, and settest thy nest among the Stars, yet from thence will I bring thee down; and the right way down hill, and down to hell is pride; but a Savior shall come to Mount <hi>Zion,</hi> and judge the Mount of <hi>Esay;</hi> a sweet Scripture, <hi>vers.</hi> 21.</p>
+            <p>Q. <hi>What doth Ionah say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Out of the belly of Hell cried I, and thou heardest my voice, all the bil<g ref="char:EOLhyphen"/>lows, and thy waves compassed me, the Weeds were Wrapt about my head, yet will I look again towards thine holy Temple, <hi>Ionah</hi> 2:4.</p>
+            <p>Q. <hi>What doth the Prophet Micah say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Who is a God like unto our God, that pardoneth iniquity transgression &amp; sin, yea all iniquity transgression and sin, for his own sake, his Names sake, his Sons sake, his promise sake, <hi>Micah</hi> 7:18.</p>
+            <p>Q. <hi>What doth the Prophet Nahum say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Behold upon the Mountains the feet of them that bring good tydings, and publish peace, keep thy feasts and
+<pb n="10" facs="tcp:206714:8"/>perform thy vows O Judah, <hi>Nahum</hi> 1:15.</p>
+            <p>Q. <hi>What doth Habakkuk say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will rejoyce in God, and I will joy in the God of my salvation, although the Fig-tree shall not blossom, the Vine, the Olive, the Flock and the Heards of the Stall be cut off, yet will I rejoyce in the God of my Salvation, who makes me to walk on high places, that is, to live in his high discoveries; and the high discoveries of God in any afflicti<g ref="char:EOLhyphen"/>on, will make a man sing like the Night<g ref="char:EOLhyphen"/>ingale as long as they last, <hi>Hab.</hi> 3:17.</p>
+            <p>Q. <hi>What doth Zephaniah say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will turn to the people a pure language, and they shall all call on the Name of the Lord, and serve him with one consent; and this is a Gospel pro<g ref="char:EOLhyphen"/>mise indeed; in the mean time I will leave among you a poor and an afflicted People, and they shal trust in my Name, <hi>Zep:</hi> 3:9, 12. and saith Christ, it is the poor that receive the Gospel, <hi>Luke</hi> 7:12. the great ones come to nought, 1 <hi>Cor.</hi> 1.18. and experience tels us, that it is the spiritual poor, and middle sort of people, for the most part, that mind any thing of
+<pb n="11" facs="tcp:206714:8"/>good; for Beggars are vile, and Lords are base and vicious.</p>
+            <p>Q. <hi>What doth Haggai in the</hi> 2. <hi>and the</hi> 6. <hi>say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The desire of all Nations shall come; and when Christ comes he satis<g ref="char:EOLhyphen"/>fies the souls of all men, and a thousand Worlds without Christ will never do it to any purpose, for they that love Sil<g ref="char:EOLhyphen"/>ver shall never be satisfied.</p>
+            <p>Q. <hi>What doth Zechariah say in the</hi> 13. <hi>and</hi> 1?</p>
+            <p>
+               <hi>A.</hi> In that day there shall be a foun<g ref="char:EOLhyphen"/>tain open for Judah and Jerusalem to wash in, for sin and uncleanness.</p>
+            <p>Q. <hi>Who is this Fountain?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ, and a living, loving, last<g ref="char:EOLhyphen"/>ing, flowing Fountain is he; yea he e<g ref="char:EOLhyphen"/>ver lives and loves to have sinners come and wash, and the worst that washeth here, shall be whiter than the snow in the eyes of God, <hi>Psal.</hi> 51.7.</p>
+            <p>Q. <hi>What doth Malachi in the</hi> 4. <hi>and</hi> 1. <hi>say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Unto you that fear my Name shal the son of Righteousness arise with hea<g ref="char:EOLhyphen"/>ling in his wings.</p>
+            <p>
+               <hi>Who is this Son of Righteousness?</hi>
+            </p>
+            <pb n="12" facs="tcp:206714:9"/>
+            <p>
+               <hi>A.</hi> Christ, and a thousand beams of love and grace are ever in him, and shin<g ref="char:EOLhyphen"/>ing from him, which are indeed the light and life of the world, more influential to the soul, than is the Sun to the Flowers, Plants, and Trees.</p>
+            <p>Q. <hi>But what are these Wings?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing but the leaves of this Tree of life, whose leaves are for the healing of the Nations, <hi>Rev.</hi> 22.2. but the wings and the leaves are both growing on him, and flowing from him; one de<g ref="char:EOLhyphen"/>notes his nearness, and the other his sweetness and swiftness; yea his leaves are alwaies fresh and green, and his fruit bears every month, eat and drink a bun<g ref="char:EOLhyphen"/>dantly; O taste and see the Lord is gra<g ref="char:EOLhyphen"/>cious, blessed is the man that lives upon this bread of life, and life giving bread, which came down from heaven, <hi>Ioh:</hi> 6:50, 58. once was and yet ever is in hea<g ref="char:EOLhyphen"/>ven, and will give a thousand heavens to them that wait for him; yea, eye hath not seen, nor ear hath not heard, nor have men known since the World stood, that which thou O God hast prepared for them that wait for thee, faith the Prophet, <hi>Isaiah</hi> 64.4. and a
+<pb n="13" facs="tcp:206714:9"/>heavenly Prophet was he; but remem<g ref="char:EOLhyphen"/>ber the Law of <hi>Moses</hi> my servant, saith the last of all the Prophets in the last words.</p>
+            <p>Q. <hi>But where did God give this Law?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> On Mount <hi>Sinai,</hi> the thundring Mount, which no man durst come nigh.</p>
+            <p>Q. <hi>And where the Saviour?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From Mount <hi>Sion</hi> the blessed Mount, or Mount of blessings, which every man might come unto, and see the crucified Christ on <hi>Calverie;</hi> and Christ upon a hil is as a Beaken to the Nations, or an Ensign to the World: but Mount <hi>Olive</hi> was the praying Mount, whilst <hi>Si<g ref="char:EOLhyphen"/>on</hi> is the praising, and Jerusalem above the mother of us all: Shout O Inhabi<g ref="char:EOLhyphen"/>tants of the Earth, for great is the holy One in the midst of thee, <hi>Isa.</hi> 12.6. and if I forget thee let my right hand forget his cunning; yea, if I prefer not Jerusalem before my chiefest joy, then let my tongue cleave to the roof of my mouth, <hi>Psal.</hi> 137.5. but behold how he comes meek and lowly riding on an Asse, the Colt and Poal of an Asse, having Salvation in his wings; wherefore rejoyce greatly for thy King
+<pb n="14" facs="tcp:206714:10"/>O Virgin daughter <hi>Sion,</hi> and when <hi>Sion</hi> heard this thing, they cut down boughes and branches, saying <hi>Hosanna, Hosanna</hi> in the highest, whilst others spread their garments, for this high and holy, low and humble self-denying Christ.</p>
+            <p>Q. <hi>Well, but where was he born?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>Bethelem</hi> saith <hi>Matthew</hi> 2.8. and he was one of the four Evangalists; yea, in <hi>Iudah</hi> a little Town in <hi>Bethelem,</hi> and he is the Lyon of the Tribe of <hi>Iudah,</hi> which will tear his enemies in pieces, whilst, he everlastingly embraceth the worst of sinners that come unto him; and the wise men that came to worship him, brought the best things in all their Country, namely, Gold, Frankinsence, and Myrrh, to offer unto him, <hi>vers.</hi> 10. and he offered himself for his a sweet smelling Sacrifice acceptable to the Fa<g ref="char:EOLhyphen"/>ther, bore our sins in his own body on the Tree, died and rose for our justifi<g ref="char:EOLhyphen"/>cation, and ever lives to make interces<g ref="char:EOLhyphen"/>sion.</p>
+            <p>Q. <hi>But who destroyed all the Male Children under three years old?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Herod.</p>
+            <p>Q. <hi>But how destroyed he them?</hi>
+            </p>
+            <pb n="15" facs="tcp:206714:10"/>
+            <p>
+               <hi>A.</hi> He sent Souldiers, and most Soul<g ref="char:EOLhyphen"/>diers wil go upon any design for money, and such men to the Devil that have no conscience in them; then was the say<g ref="char:EOLhyphen"/>ing good, In <hi>Ramah</hi> was a voice heard, <hi>Rachel</hi> weeping for her children, <hi>Matt.</hi> 2.18. and every heart is <hi>Ramah</hi> and a Wilderness, where there is nothing but the howling of cursed lusts and nature.</p>
+            <p>Q. <hi>But why would</hi> Herod <hi>have put Christ to the death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because he was the born King of the Jews, and himself but an Usurper, and this was a damnable plot indeed, to put a true King to death for his Crown yea the King of Kings.</p>
+            <p>Q <hi>What doth Mark say in the</hi> 13. <hi>and the</hi> 34?</p>
+            <p>
+               <hi>A.</hi> Watch, watch, watch, for the com<g ref="char:EOLhyphen"/>ing of the Son of Man, for he comes as a thief, that is, stealingly upon the world, and blessed is he that Waits, and keeps his garment undefiled, <hi>Rev.</hi> 16:15.</p>
+            <p>Q. <hi>What did the Angel say to Zechari<g ref="char:EOLhyphen"/>ah?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That <hi>Elizabeth</hi> his wife should have a Son, and his name should be cal<g ref="char:EOLhyphen"/>led <hi>Iohn,</hi> and he should neither drink
+<pb n="16" facs="tcp:206714:11"/>wine nor strong drink, but his heart should be filled with the Holy Ghost, and many of the Children of Israels hearts should he turn to the Lord his God.</p>
+            <p>Q. <hi>What did the Angel say to</hi> Mary?</p>
+            <p>
+               <hi>A.</hi> All hail <hi>Mary,</hi> blessed among women shalt thou be, for thou shalt con<g ref="char:EOLhyphen"/>ceive in thy womb and bring forth a Son, and his name shall be called Jesus, for he shall save his people from their sins; and God shall give unto him the Throne of his Father <hi>David,</hi> and he shal reign over the House of <hi>Iacob</hi> for ever; and of his Kingdom there shall be no end, <hi>Luke</hi> 1.33.</p>
+            <p>Q <hi>And what did</hi> Mary <hi>say to this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> She wondered how it should be, and the Angel said by the power of the most high; and the Holy Ghost over<g ref="char:EOLhyphen"/>shadowing her.</p>
+            <p>Q. <hi>And what did the Angel say unto the Shepheards?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Behold I bring you glad tydings of great joy that shall be unto all Nati<g ref="char:EOLhyphen"/>ons, for to you is born a Saviour, and his name shall be called Jesus, <hi>Luk:</hi> 2:11. for be shall save his people from their sins.</p>
+            <pb n="17" facs="tcp:206714:11"/>
+            <p>Q. <hi>What did the Shepherds hear when the Angels were gone?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Multitude of heavenly Hosts, saying, Glory to God in the highest, peace and good will to men on Earth.</p>
+            <p>Q. <hi>What did old</hi> Simeon <hi>say when he saw Christ?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Let me now thy servant depart in peace, for mine eyes have seen thy sal<g ref="char:EOLhyphen"/>vation, <hi>vers.</hi> 31.</p>
+            <p>Q. <hi>What did</hi> John <hi>say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Behold the Lamb of God that ta<g ref="char:EOLhyphen"/>keth away the sins of the World, <hi>Iohn:</hi> 1: 35.</p>
+            <p>Q. <hi>What did Christ say to</hi> Philip? <hi>and what did</hi> Philip <hi>say to</hi> Nathaniel?</p>
+            <p>
+               <hi>A.</hi> We have found him of whom <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> and the Prophets writ: and Jesus said behold an Israelite indeed, in whom is no guile: and <hi>Nathaniel</hi> said thou art the Son of God, the King of Israel, <hi>vers.</hi> 49.</p>
+            <p>Q. <hi>What is that you call the Acts?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing but a true History of Christ and his Apostles; and in it we have <hi>Paul</hi>'s carriage before <hi>Felix; Peter</hi> and <hi>Stephen</hi> before the Jews, their sto<g ref="char:EOLhyphen"/>ning, whipping, stripping, and impriso<g ref="char:EOLhyphen"/>ning
+<pb n="18" facs="tcp:206714:12"/>of them and the rest; notwithstan<g ref="char:EOLhyphen"/>ding which the Church did mightily en<g ref="char:EOLhyphen"/>crease.</p>
+            <p>Q. <hi>Who writ the Epistle to the Ro<g ref="char:EOLhyphen"/>mans?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and <hi>Paul</hi> was an honest man, and as brave as bold, Christ-mag<g ref="char:EOLhyphen"/>nifying, loving Saint as ever lived, and <hi>Rome</hi> as true a Church, yet now the Mother of <hi>Harlots, Rev.</hi> 18.2. and the sink of sin, and cage of every unclean beast, where <hi>Zim,</hi> and <hi>Ohim,</hi> and De<g ref="char:EOLhyphen"/>vils dwell; and happy shall he be that may dash the brains of her bratts in the streets, this or the next Generation may live to see it for all this; in mean time cursed be they that hinder, or do the work of the Lord negligently, <hi>Ier:</hi> 48:10.</p>
+            <p>Q <hi>Who writ ths first and second E<g ref="char:EOLhyphen"/>pistles to the Corinthians?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and <hi>Paul</hi> boasts and glo<g ref="char:EOLhyphen"/>ries saying; We are fools yet are we wise in Christ, we are poor and make many rich, 2 <hi>Cor.</hi> 6.10. we are coun<g ref="char:EOLhyphen"/>ted as the off-scouring of the world, and the world is not worthy of us; and whilst we possess nothing, we enjoy all things.
+<pb facs="tcp:206714:12"/>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <pb facs="tcp:206714:13"/>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <pb facs="tcp:206714:14"/>
+               <pb n="21" facs="tcp:206714:14"/>how is he counted among the children of God, and his portion among the Saints; and what hath pride profited us, <hi>Wisdom:</hi> 5.4.</p>
+            <p>Q. <hi>Who writ the Philipians?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and <hi>Paul</hi> complains, say<g ref="char:EOLhyphen"/>ing, they sought their own things, and no man sought the things of Christ, <hi>ch:</hi> 2: <hi>v:</hi> 21. and a sad complaint it was that none should mind a living, loving, cru<g ref="char:EOLhyphen"/>cified Christ, who minded us from eter<g ref="char:EOLhyphen"/>nity, and has saved us to eternity, from sin, death, hell, and eternal burnings; and we are sure that whilst he was on earth, he made it all his business, to seek and to save lost sinners; Did you see any of the lost sheep of the house of Israel, <hi>Mat.</hi> 15.24. Nay did you see saith the Saviour, and pipes, and weeps, and mourns; O Jerusalem, Jerusalem, how often would I have gathered thee, <hi>Luk:</hi> 13: 34. but you will not come unto me that you might have life, <hi>Ioh:</hi> 5: 43. Neither will the Saints now a daies ei<g ref="char:EOLhyphen"/>ther love or live, or do for Christ, in any measure as they should; O blessed <hi>Paul.</hi> O blessed Saint, that did as much, and writ as much, and denyed as much for
+<pb n="22" facs="tcp:206714:15"/>Christ as ever man, and yet all that he did he still denied and counted it all but as loss and dung for Christ and the Righ<g ref="char:EOLhyphen"/>teousness of Christ, <hi>Phil:</hi> 3: 8, 9.</p>
+            <p>Q. <hi>Who writ the Epistle to the Collos<g ref="char:EOLhyphen"/>sions?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and there he makes Christ to be all in all, <hi>ch:</hi> 3: 11. and indeed he is so, and there is neither bond nor free, high nor low, nor life nor death, but Christ is all in all, yea, he will be all in all, both in life, death, and eternity, ju<g ref="char:EOLhyphen"/>stification, sanctification &amp; glorificati<g ref="char:EOLhyphen"/>on, as I said before; O unhappy man that forgetteth or forgeth him for a mo<g ref="char:EOLhyphen"/>ments lust, or listeth not to live to him, until it be too late.</p>
+            <p>Q. <hi>Who writ the first and second E<g ref="char:EOLhyphen"/>pistles to the Thessalonians?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and in that he exhorts them to pray continually, and in every thing to give thanks; comfort the feeble, and strengthen the weak, 1 <hi>Thes:</hi> 5: 16. and to beware of being deceived about the coming of Christ, for that day shall not come till Anti-christ be revealed and destroyed by the Spirit of Christ, the brightness of his coming, 2 <hi>Thes:</hi> 2:8.
+<pb n="23" facs="tcp:206714:15"/>yet the Sword shall certainly make some way, and when he comes it shall be in flaming fire, to render vengeance upon all that know not God, and obey not the Gospel of our Lord Jesus Christ, &amp; shall punish them with everlasting de<g ref="char:EOLhyphen"/>struction from his presence, when he shall come to be glorified in his Saints, and marvelous in the eyes of all them that do believe, 2 <hi>Thes:</hi> 1:8, 9, 10. in the mean time let all believers rejoice in this Text, and let the ignorant World trem<g ref="char:EOLhyphen"/>ble, for he that made them will not save them, as they use to say, if they despise his Gospel and his Son, the delight of his soul, our ever dear and glorious Re<g ref="char:EOLhyphen"/>deemer, yea how shall we escape if we neglect so great, so free, and full Sal<g ref="char:EOLhyphen"/>vation, <hi>Heb:</hi> 2: 3. Yea, what shall the end of all them be that obey not the Gospel of our Lord Jesus Christ, which if any man will not love, let him be <hi>A<g ref="char:EOLhyphen"/>nathema Maran-atha,</hi> 1 <hi>Cor:</hi> 16: 22. or acursed til the Lord come, so saith <hi>Paul.</hi>
+            </p>
+            <p>Q. <hi>Who writ the first of Timothy?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and in the 1. and the 17. he saies, Unto the King, everlasting, im<g ref="char:EOLhyphen"/>mortal, invisible, onely wise God, be
+<pb n="24" facs="tcp:206714:16"/>honor and glory for ever and ever A<g ref="char:EOLhyphen"/>men.</p>
+            <p>Q. <hi>Who writ the second of Timothy?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and there he charges <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> to beware of Covetousness and the love of Money, 1 <hi>Thes:</hi> 6: 9. which is Idolatry. O man of God, fly these things saith he; unto the appearing of our Lord Jesus Christ, who is the only Potentate, and King of Kings, and Lord of Lords, who onely hath immortality in his hands, and dwelleth in that light which is unaccessable, whom no man hath seen, nor can see in his full glory, 1 <hi>Tim:</hi> 6: 8: 10, 16. and in the fourth Chapter of the second Epistle, and the first verse, he chargeth him before God and our Lord Jesus Christ, who shall judge the quick and dead at the appear<g ref="char:EOLhyphen"/>ing of his Kingdom, that he preach the Word in season and out of season: and many charge us who are private Chri<g ref="char:EOLhyphen"/>stians for preaching the Word, when God is our witness, we do it in sinceri<g ref="char:EOLhyphen"/>ty; yet Ministers will be angry, and Magistrates scarce give leave, yet by your leave, without your leave, say I, to all the Powers in the World; what men are
+<pb n="25" facs="tcp:206714:16"/>forbid they may not do, but what they are commanded they may and must do. <hi>Ʋzza</hi> was forbid to touch the Ark, but we are bid to prophesie, and build up one another, 1 <hi>Cor:</hi> 14: 1, 39. 1 <hi>Pet:</hi> 4: 10. Yea, in a thousand places more; but the Sons of <hi>Greece</hi> make a nose of wax of many an honest Text against the Sons of <hi>Sion;</hi> yet will I set them against them, <hi>Zecha.</hi> 9: <hi>v:</hi> 13. and the quarrel will never be ended, for if one sink the o<g ref="char:EOLhyphen"/>ther swims, and yet they are held up by the chin; but the Lord help us, we have no confidence in the arm of flesh.</p>
+            <p>Q. <hi>Who writ the Epistle to Titus?</hi>
+            </p>
+            <p>
+               <hi>A. Paul,</hi> and in <hi>chap:</hi> 2: <hi>vers:</hi> 11. he tels us, the grace of God which bring<g ref="char:EOLhyphen"/>eth salvation to all mens doors, ears, and hearts if they will accept it, teacheth us to deny all ungodly and worldly lusts, and to live soberly and godly in this pre<g ref="char:EOLhyphen"/>sent world, looking for the hope and glorious appearing of our great God and Saviour Jesus Christ, <hi>vers.</hi> 13. and <hi>Paul</hi> writ one Chapter to <hi>Philemon,</hi> and that was altogether about the forgiving of <hi>Onesimus, Philemons</hi> Servant, which once run away from him, afterwards
+<pb n="26" facs="tcp:206714:17"/>was converted and sent back by <hi>Paul,</hi> as a Brother to both; this should teach us to forget and forgive, especially when we see the work of Christ upon their hearts, which have formerly done us the greatest injury.</p>
+            <p>Q. <hi>Who writ the Hebrews?</hi>
+            </p>
+            <p>
+               <hi>A. Paul</hi> (I think) and he tels us in the first verse of the first chapter, That God who at sundry times, and in di<g ref="char:EOLhyphen"/>vers manners, spake unto the Fathers by the Prophets, hath in these last daies spoken unto us by his Son from heaven, whom he hath appointed to be heir of all things, by whom also the world was made; saying, Thy Throne is for ever; and a Scepter of Righteousness is the Scepter of thy Kingdom, thou lovest Righteousness and hatest Iniquity, ther<g ref="char:EOLhyphen"/>fore thy God hath annointed thee a<g ref="char:EOLhyphen"/>bove thy fellows; all thy garments smel of Myrrh: and let all the Angels of God Worship him, sitting at the right hand of God, till his enemies be made his footstool, <hi>vers.</hi> 6, 9, 12. And in <hi>chap.</hi> 11. he tels us what the worthies of the world did by faith; and by faith we stand when we fall, live when we die,
+<pb n="27" facs="tcp:206714:17"/>and possess all things when we enjoy lit<g ref="char:EOLhyphen"/>tle or nothing of this worlds goods.</p>
+            <p>Q. <hi>Who writ the Epistle of James?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He himself, and he tels us that, that man is blessed that endures temp<g ref="char:EOLhyphen"/>tation, for he shall receive a Crown of life, <hi>Iam:</hi> 1: 12. But woe be unto the rich if they be ungodly, yea let them weep and howl for that misery that shal come upon them, <hi>Chap:</hi> 5: 1. and faith without works are dead, <hi>Chap:</hi> 2: <hi>v:</hi> 20. and the truth is works justifie us before men, and faith justifies us in our consci<g ref="char:EOLhyphen"/>ence, and gives us to see our justificati<g ref="char:EOLhyphen"/>on by Christ; whilst he alone and none but he justifies us before God, without our faith or works; for our faith being imperfect needs him to justifie that, and that without him can justifie none, whilst none can see their justification without it; and this is a riddle that the blind Papists, and bulk of Protestants can ne<g ref="char:EOLhyphen"/>ver hit; the Ministers do so bungle in and about this point; many of them distinguish between Law and Gospel, Covenant and Covenant, or else you do nothing to any purpose.</p>
+            <p>Q. <hi>Who writ the first and second Epistle of Peter?</hi>
+            </p>
+            <pb n="28" facs="tcp:206714:18"/>
+            <p>
+               <hi>A.</hi> He himself, and in that he tels us of the pretiousness of Christ, 1 <hi>Pet:</hi> 2: 6. and indeed to them that believe he is a pretious Christ; yea to them he is pretious in his Name, in his Nature, in his Person, in his Promise, to look to, to lean on, to hope in, and to follow af<g ref="char:EOLhyphen"/>ter; he is altogether pretious: and what manner of people ought we to be that look for this Christ, a new heaven and a new earth, wherein dwels righte<g ref="char:EOLhyphen"/>ousness, 2 <hi>Pet:</hi> 3: 13. and then the old heavens and the old earth shall pass a<g ref="char:EOLhyphen"/>way; the righteousness of man, the works and forms of men, wherein they place their happiness, yea the Gospel Ordinances I think shall then be done away, when that sweet Scripture is made good, <hi>Isa.</hi> 60. <hi>v:</hi> 22. where there is a clear distinction made between the Son and thy Son; observe it well: And saith <hi>Iohn,</hi> speaking of the new Jerusa<g ref="char:EOLhyphen"/>lem, there was no Temple in it; and yet again he tels us, that the Lord God and the Lamb, were the Temple of it: com<g ref="char:EOLhyphen"/>pare this and the 21: of <hi>Rev:</hi> together, from the 21: <hi>vers:</hi> to the 26. and sure this must needs be spoken of a State Mili<g ref="char:EOLhyphen"/>tant
+<pb n="29" facs="tcp:206714:18"/>rather than triumphant; where the Kings need not bring their glory, as the Prophet <hi>Isaiah</hi> has it; nor shall the wic<g ref="char:EOLhyphen"/>ked come bowing to their feet there, <hi>I<g ref="char:EOLhyphen"/>saiah</hi> 60.14.</p>
+            <p>Q. <hi>Who writ the first Epistle of John?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He himself: &amp; in the third chapter and the first verse he tels us of the love of God, saying, Behold what maner of love is this? How free, how full, how sweet, how easie to be had, and much to be admired, that we should now be called the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons of God? And indeed we are so by election before time, contract or co<g ref="char:EOLhyphen"/>venant in time, vocation and calling, pur<g ref="char:EOLhyphen"/>chase of the blood of Christ, union with the person of Christ, and faith in the re<g ref="char:EOLhyphen"/>ceiving of Christ; in all which respects we are now the sons of God, 1 <hi>John</hi> 1.12. Now to be the sons of such a Father, and heir of such a God; yea, and all things else besides. God must needs be sweet indeed. O you sons of God, know your selves, shew your selves, and humble your selves for your unworthiness, un<g ref="char:EOLhyphen"/>fruitfulnesse, unthankfulness to this lo<g ref="char:EOLhyphen"/>ving living God and father, who is ever giving one good thing or other to us, and
+<pb n="30" facs="tcp:206714:19"/>how can he deny us any thing that has given us himself? O God, thou art mine, saith a Saint, and I will not let thee go for a thousand worlds, and yet one world would steal away a thousand hearts.</p>
+            <p>Q. <hi>But who writ the second and third of John?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He: yea he writ all three, and all that he writ was Love, and a loving God was Christ, to let this humble sinning Saint and sinner, lye so long in that li<g ref="char:EOLhyphen"/>ving loving bosome of his, <hi>John</hi> 13.23. the bosome of <hi>Abraham,</hi> or <hi>Abrahams</hi> bosome, <hi>Luke</hi> 16.22. where he dipt his soul and his quill, his heart and his pen in the love of Christ, &amp; strews all his E<g ref="char:EOLhyphen"/>pistles with that alone, which is from the fountain of love, leading men from the lusts of this world to that love and light which is better than this World a thou<g ref="char:EOLhyphen"/>sand times; but one of a thousand scarce lives in that love which he is exhorted unto, or up to that light which he him<g ref="char:EOLhyphen"/>self is the possessor of.</p>
+            <p>Q <hi>But who writ the Epistle of Jude?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He himself, and he tells us of the coming of Christ with ten thousands of
+<pb n="31" facs="tcp:206714:19"/>his Saints, and ten thousand Saints will make a gallant shew, when every one shall shine as the Sun in the Kingdom of their Father, <hi>Matth.</hi> 13.43. and yet Christ shall out-shine them all ten thou<g ref="char:EOLhyphen"/>sand times over and over. O happy day! O happy Christ! O happy Sinner! that shall for ever shine with Christ in this same glory! And what will the wicked do, that must be banisht in that same day for ever and ever? Well may it be said, Ill tide the time, and cursed be the day that ever such were born, who must burn for million and millions and millions of years for their refusing and abusing this Christ a few dayes.</p>
+            <p>Q <hi>Who writ the Revelations?</hi>
+            </p>
+            <p>
+               <hi>A. Iohn</hi> the Divine and a Divine My<g ref="char:EOLhyphen"/>stery is this Book of God, yet he tells us, that they are blessed who read or hear this blessed prophesie. But cursed are all those that add or diminish from the true sayings thereof, <hi>Rev.</hi> 1. <hi>v.</hi> 3. Chap. 22. v. 19. In the mean time the Spirit and the Bride say come, and let him that thir<g ref="char:EOLhyphen"/>steth say come. And who ever will, let them come and take of the Water of life freely; for he ever lives to give, and
+<pb n="32" facs="tcp:206714:20"/>loves to give more freely to the worst of sinners, than parents do bread to their chil<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ren; and he that test<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fieth these sayings, saith, I come quickly. Amen, even so come Lord Jesus Christ, last and last verse. Well Sirra, now tell me the whole Bible, and how the Bookes lye in order, and you shall be a good Boy.</p>
+            <p>
+               <hi>Ans.</hi> First <hi>Genesis, Exodus, Leviticus, Numbers, Deu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eronomy, Ioshua, Iud<g ref="char:EOLhyphen"/>ges, Ruth,</hi> 1 <hi>Samuel,</hi> 2 <hi>Samuel,</hi> 1 <hi>Kings,</hi> 2 <hi>Kings,</hi> 1 <hi>Chronicles,</hi> 2 <hi>Chronicles, Ezra, Nehemiah, Esther, I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b, Psalms, Proverbs, Ecelesiastes, The Song of So<g ref="char:EOLhyphen"/>lomon, Isaiah, I<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remiah, Lamentations, Ezekiel Daniel, Hosea, Ioel, Amos, Obadih, Ionah, Micah, Nahum, Ha<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kkuk, Zephania, Haggai, Zechariah, Malachi.</hi>
+            </p>
+            <p n="2">2. <hi>Matthew, Mark, Luke, Iohn, The Acts, Romans,</hi> 1 <hi>Corinthians,</hi> 2 <hi>Co<g ref="char:EOLhyphen"/>rinthians, Galatians, Ephesians, Phi<g ref="char:EOLhyphen"/>lippians, Colossians,</hi> 1 <hi>Thessalonians,</hi> 2 <hi>Thessalonians,</hi> 1 <hi>Timothy,</hi> 2 <hi>Timothy, Titus, Philemon, Hebrews, Iames,</hi> 1 <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> 2 <hi>Peter,</hi> 1 <hi>Iohn,</hi> 2 <hi>Iohn,</hi> 3 <hi>Iohn, Iude, Revelation.</hi>
+            </p>
+            <p>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re's a good Boy now, and if you
+<pb n="33" facs="tcp:206714:20"/>will perfectly learn these without book, you shal be a good Boy indeed, and they wil make you so ready to go to any Book that the Minister shall quote, that you wil find it in a trice; whereas some fellows lye licking their thumbs, and turn the Bible half over before they find the text, or proof. But Father, I mind the matter, and never turn after the proofs. That's well, but it's good to look for the proofes and mind the matter also: Yet I would not stand turning to every Text in preaching or hearing, and do not go a wide rambling way, gathering up I know not what, whi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st others go a wool-gathering in their hearing. Zealous prea<g ref="char:EOLhyphen"/>ching, tent hearing and fervent praying is the right way my son. I truly, Sir, I believe so too. Now tel me some other good things and you shal be a good Boy stil. But Sir, your Catechize is some<g ref="char:EOLhyphen"/>thing long. I Sirra, and some body else was as long a making, and cost more a great deal. But what is the best posture a man can be in? Upon his knees pray<g ref="char:EOLhyphen"/>ing in the sense of Gods love: for that wil melt the soul, and lay the soul as low as hell in his own apprehensions, and
+<pb n="34" facs="tcp:206714:21"/>raise up among the Angels in his humble bold request. And when is a man most fit to die? When he has lived to Christ a little while, and died to sin a great deal. Yet a man may strive a great deal against some corruptions before he get the Masterdome, (especially if he goes forth in his own strength.) O my son, take the shield of Faith, and the hope of sal<g ref="char:EOLhyphen"/>vation (<hi>Ephes.</hi> 6.16.) for an helmet. But which is it best to be a poor sneak, an humble Christian, or a young Gallant, that minds little or nothing else but his pleasure? A Christian a thousand times, if he be a true one; but many say they are and are not, for if a man do not know Christ, and enjoy some commn<g ref="char:EOLhyphen"/>munion with Christ, as the Branch with the Vine, the Member with the Body, or the Wife with the Husband, he can ne<g ref="char:EOLhyphen"/>ver be a Christian, <hi>Iohn</hi> 15.5. <hi>Rom.</hi> 8. <hi>v.</hi> 9. But it is better to be a <hi>Paul</hi> than a <hi>Felix,</hi> a <hi>Iohn</hi> than a <hi>Herod,</hi> or an old wo<g ref="char:EOLhyphen"/>man in a Pigstie than a spotted Lady in a Coach with a painted face; yea, I had rather be a <hi>Lazarus</hi> than a <hi>Dives,</hi> a Toad than a common never-repenting sinner: yet let me feed upon the spawn
+<pb n="35" facs="tcp:206714:21"/>of them, and live and die under a stone, rather than want Christ, or be in the con<g ref="char:EOLhyphen"/>dition of some men that drink wel, and fare wel, and go wel every day, and there is no day but we should sin as much as any if God did not keep us. There<g ref="char:EOLhyphen"/>fore it's good to pray, and if any man will pray, I dare say God wil help him mend &amp; 'tis better once than never so to do. But what is the worst condition in this life a man can be in? To be merrily sinning and singing going to hel, and never think nothing, for th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a man drops in before he is aware. Should not a man pitie such a man? Yes, it will make a wise man weep to see a mad man laugh, and to hear a man sing and say, <hi>Care away;</hi> or to see a man feast for a week, a moneth, or a day, that must fast for a thousand years. I had rather be poor than reprobate, or want a silken stocking than have gouty leg, a golden cap than have a rending head; yea a skin to cover my bones, than want the righ<g ref="char:EOLhyphen"/>teousness of Christ, which any man may, have to cover my soul, <hi>Rev.</hi> 3.18. <hi>Isai.</hi> 55.1. But every one is for new Clothes, and the old truthes of Christ are almost
+<pb n="36" facs="tcp:206714:22"/>forgotten. Yet the old Puritan for my money, provided he be not too legall, for the white Divell is the worst of all. While some men want every thing, o<g ref="char:EOLhyphen"/>thers want nothing. A poor man with twenty afflictions on his back, and a poor woman with two or three children in her lap, and never a bit of bread in the Cupboard, (<hi>Rem. Habak</hi> 3.17.) is wel enough when she can say, The Lord is my portion; and no man living can be worse than to have gold in his purse, heath in his b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy, wealth in the world, with honor and esteem amongst men, and to be neer the day of darkness and not aware. Thou fool, this night shal thy soul be taken from thee, <hi>Luke</hi> 12 20. and to be taken from a good con<g ref="char:EOLhyphen"/>dition to a bad, is to be taken from the bed to the worms, from the world to the Divel, from the pasture to the slaughter. I saw a Butcher one time drive an Ox so fu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iously, and the Divel hurries some I know not whither; yet they of all are most to be pitied, who are civil and good natured people, yet perish for want of knowledge; and a man knowes nothing if he doth not know his own heart.
+<pb n="37" facs="tcp:206714:22"/>When a wretched poor afflicted sinner dies, the fish leaps from the frying p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to the fire: and when a p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>osperous, rich and great man dies, the Sun everlastingly sets, as it were, in a dismall, black and melancholy cloud. But when a good man dies, the Angels say, All hail again, which was the salutation of the Virgin <hi>Mary, Luke</hi> 1.28.</p>
+            <p>
+               <hi>Q</hi> Well Sirra, what are you resolved to be a good man or a bad? I am resolved to be the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvant of Christ. That's a good Boy indeed. And what do you love best? Him. And why Him? Because he hath loved me most, and wa<g ref="char:EOLhyphen"/>shed me in his own blood, <hi>Rev.</hi> 1.5.</p>
+            <p>But what did you love when you were two or three years old? First, I loved my Bubb and my Baby, and then I loved a Top, a Whip, and a Gigg, a Cart, a Horse, yea, I loved twenty things more than my Book. I love my father and my mother, my brothers and my sisters; yea I love every body, and my self too. Do you not love the world? Yes, a little, and most professors do too much: but I love my soul better than the world a thousand times, and Christ better than
+<pb n="38" facs="tcp:206714:23"/>my soul, twice as many more, or at least wise should. Doth every body do so? No, some love their Hawkes and their Hounds, their Horses; yea, a great many Farmers love their Piggs better than Christ, see the Text, <hi>Mark</hi> 5.17. and it is better to be a Pigg than that mans soul that doth not mind his soul. If a man should serve h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Cat and his Dogg every day, and should starve his onely child, it were a most unnatural thing, and it is worse a thousand times to neglect, as most Countrey folks and others do, the everliving and immortal soul, which is worth a thousand worlds, upon every slight occasion. I saw a Woman one time serve her Pigg, her Chicken, her Duck, and her Turky, and then she went about her Cheese, but she forgot her soul and her prayers that morning. And it is as good so as to say on, on, and not mind what we say. Have poor folks any souls? Yes, and rich as wel as them, and a rich mans soul is worth as much as a poor, and a poor mans soul wil last as long as a rich. Indeed every body has a soul, and God has a place for every mans soul to go unto.
+<pb n="39" facs="tcp:206714:23"/>Yet a rich man has a long hel for a little heaven, if he goes I know not where: and Christ shal one day say, Come yee blessed, or, Go yee cursed into everlast<g ref="char:EOLhyphen"/>ing fire, prepared for the Divel and his Angels, because you did not do this or that, <hi>Mat.</hi> 25.41. Why shal a man be damned for not doing good? I, child, as soon as for any thing in the world. There be many ways to go to the wood, and many ways to go to the Divel and be damned, unbeliving is the great way, <hi>Iohn</hi> 3.36. Error is the by-way, delight is the pleasant way, swearing is the mad way, lying is the right way, and who<g ref="char:EOLhyphen"/>ring is the next way, see that Text, <hi>Prov.</hi> 2.18. soul-carelesness is another, and many fools go for thinking nothing, or for want of thinking whither they are going; a man may be in a pit, and in Hell before he is aware, if his life be but a vapour, as it is, and he that goes to hell in a way of working for heaven, goes round, round about the wood to the Di<g ref="char:EOLhyphen"/>vel. Poor Papists, poor Protestants, how are they to be pitied, that do not know the vast difference between the two Co<g ref="char:EOLhyphen"/>venants, nor these two Texts, <hi>Do this
+<pb n="40" facs="tcp:206714:24"/>and live, Believe and live.</hi> Why must not a man do as much as he can if he doth bel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve? Yes, and more than that man th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t doth beli<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve: Faith makes a man as strong as <hi>Sampson,</hi> and as nimble as <hi>David,</hi> who could leap over any difficulty: yea, it wil make him run as <hi>Iehesah</hi> the way of Gods Commande<g ref="char:EOLhyphen"/>ments; but without faith it is impossible to please God <hi>Heb.</hi> 11.6. And if a man could carry <hi>Pauls,</hi> and do more than a thousand Saints, without faith it were to no purpose, nay it were, as said before, but to go round <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout to the Di<g ref="char:EOLhyphen"/>vel, when poor swe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rers, drunkards, whores and harlots, moral men and care<g ref="char:EOLhyphen"/>less civil sinners, go some one way, and some another. Well child, I hope you wil go to heaven. And I hope you wil go too Sir, or else it had been better you had never been born. <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f a mans wife goes, &amp; not the husband, or if a husband goes &amp; not the wife, a father and not the child, or the son and not the f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, then is the saying made good, Two shall be in one bed, one taken and the other left, <hi>Luke</hi> 17.34. two shall be in the fi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, one taken and the other left; two shal be
+<pb n="41" facs="tcp:206714:24"/>at the M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, one taken and the other left. He that works for life, &amp; under the new Covenant shall be taken, when as he that works for life, and remains under th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> old, sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be left. Poor <hi>Hagars</hi> children c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld not inherit with the freewomans children, but must be cast out, <hi>Gal</hi> 4.23, &amp; 31. Mind that Text wel, and how wil you weep saith Christ, when you see <hi>Abraham, Isaac</hi> and <hi>Iacob</hi> in the King<g ref="char:EOLhyphen"/>dom of heaven, &amp; you your selv<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thrust, ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Luk</hi> 13.28. yea this wil be th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doom of thousands, not onely to be left and damned in the bed of lust and ease, the field of pleasures and delights, as wel as at the Mill of Popish legal works, &amp; then former neer and dear relations shal cry out and say, O Husband, O Wife, O Fa<g ref="char:EOLhyphen"/>ther, you must not go with me, yea, in a disclaiming way shal thousands be sha<g ref="char:EOLhyphen"/>ken off at the last day, not onely by Christ, S<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints and Angels, but by their former neer and dear relations in a scor<g ref="char:EOLhyphen"/>ning way, and be left to Legions of Di<g ref="char:EOLhyphen"/>vel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, with cursed routs of howling spi<g ref="char:EOLhyphen"/>rits and damned sinners to weep and wail in burning flames for evermore. But Father, do you think if I shoud see
+<pb n="42" facs="tcp:206714:25"/>one of my little brothers damned and left in such a condition, I should not cry? No child, nor I, for the children shal re<g ref="char:EOLhyphen"/>joyce to see their parents damned, and parents their children if they live and dye enemies to Christ and his ways. Be<g ref="char:EOLhyphen"/>sides, the ransomed of the Lord shal be swallowed up with everlasting joyes, and forget all former things so as to grieve, <hi>Isai.</hi> 35.10. But Father, our happiness lies in this, we shal both go to Heaven; and others unhappiness that they shal go to hel when they have liv'd a litle longer, &amp; sinned a little more: yea, when men have sinned as long as they can, God will damne them presently, that is a truth, for all creatures men and women are liable to the greatest happiness or un<g ref="char:EOLhyphen"/>happiness: the Angels happiness lies in the certainty of their standing; and the misery of the fallen ones in the impossi<g ref="char:EOLhyphen"/>bilities of their rising. And as every man fal<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, so the tree lies for ever, <hi>Eccles.</hi> 11.3. For after death comes judgment, <hi>Heb.</hi> 9.27. Yea, in that very moment that a man dies sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l he be unchangeably placed in bliss or misery. Now while a wicked man is here, if he be afflicted with a
+<pb n="43" facs="tcp:206714:25"/>thousand afflictions, yet such afflictions are but like the dropping of a little water from the Eves of a house after a great rain, or like the leeking of the Sluces, which wil let a litle out though you shut them never so close; but at death then seas upon seas of sorrow, sin, guilt, shame, wrath and misery breakes in upon the soul everlastingly, world without end; and then the damned Divels and sinners, that now sleep, eat and drink good veal, Beef, and Mutton, will be everlastingly stated in one and the same unchangeable cōditition with the damned spirits. Now the wickedest man in the whole world is in a better condition than the Divels, there may be faith &amp; repentance wrought in the very last moment of time. This night shalt thou be with me in paradise, satih Christ to the penitent Thief; but that is rare, for scarce one of a thousand that neglects to repent now, but forgets to repent then, or wants a heart to do it as he should; and it would be very un<g ref="char:EOLhyphen"/>comfortable for one friend to tell another ween he goes to see him in his sickness, that he is in danger to be damned to morrow, or to dye and go to
+<pb n="44" facs="tcp:206714:26"/>the Divell this night after three or four stumbers more, and yet it cannot be un<g ref="char:EOLhyphen"/>safe, but the best way to preach Christ at such a time: for if the Divel were pulling one legg, I would pull the other; yea, I would save him by the tip of the ear as it were, from the roaring Lion in the last moment; yet how great must their fears needs be, that are over head and ears in fears, and tumbling down to hell by de<g ref="char:EOLhyphen"/>spair, distrustfulness and doubts, and yet are haling back again by promises; but when the poor soule cannot lay hold of one free grace promise in all the Book of God, then the Divel pulls hard in<g ref="char:EOLhyphen"/>deed, and he is as good as gone: Three or four gasps usually carries one away, and the last despair leaves a man to his Divel, and if his Divel were with him on his back, running to his fraternity with a thousand damned Furies, yet if this man could look back &amp; see one little glimpse of a crucified Saviour, it would fetch him back again, and a thousand Di<g ref="char:EOLhyphen"/>vels, Hells, Deaths and Chains, could never hold him. See the case of <hi>Ionas, Chap.</hi> 2. <hi>v.</hi> 4. But this last moments time of Faith and Repentance being lost,
+<pb n="45" facs="tcp:206714:26"/>Divels, and sinners are both alike mise<g ref="char:EOLhyphen"/>rable to a tittle. O dear, this makes my heart to ake. But Father, I used to think when I was a little Boy, a man might scramble, or make a shift to get out of Hel one way or another, if he should go there, and that God was so merciful that he would not let a poor Boy, nor any bo<g ref="char:EOLhyphen"/>dy else, lye long there, if they should beg and cry unto him. I child, 'tis good thinking on the mercy of God, and trust<g ref="char:EOLhyphen"/>ing to it, for we have nothing else to hope in whilst we live, and trust in when we dye, but the free grace and mercy of God: but it is a foolish thing for a man to think that he shall ever clamber out when once in: a man may tumble a<g ref="char:EOLhyphen"/>bout, but he can never scramble out; yea, he may tumble out of one Hel into ano<g ref="char:EOLhyphen"/>ther, for there be many Hels, some with<g ref="char:EOLhyphen"/>in and some without. <hi>Tophet,</hi> where Rivers of Brimstone run with piles of wood, is that place, which Death, Hell, Divels, damned men and sinne's shal be cast into, <hi>Isai,</hi> 30.30.33. When King Jesus, that sweet Saviour shall say, Go ye cursed unbelieving Reprobates into everlasting fire prepared for the Divel
+<pb n="46" facs="tcp:206714:27"/>and his Angel, where there sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l be wee<g ref="char:EOLhyphen"/>ping, wai<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, and gnashing of teeth, <hi>Matth</hi> 25 41. <hi>Luke</hi> 13.28 But besides this mat<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riall Hel there is a H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l in the soul, a hell in consc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, a Hel in the thoughts. When a man ha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h two dan<g ref="char:EOLhyphen"/>gers h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hat<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> two fears, if apprehen<g ref="char:EOLhyphen"/>ded and for two losses double sorrow, and in many stings much vexa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n; if a man shake off his clothes, yet he can<g ref="char:EOLhyphen"/>not his kin: &amp; there be many Hels with<g ref="char:EOLhyphen"/>in that; yea within t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wels thoughts &amp; mind of a man th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many hels and yet if there should be nothing but the letting loose of cōscience, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich we daily see drag some men out of one Hell <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto another, by laying vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent hand<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, yet that would muster up a thousand Hels a<g ref="char:EOLhyphen"/>bout his eares; Conscience wil tel a thou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and truths and some sinnes, a thou<g ref="char:EOLhyphen"/>sand and a th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>usand times over and over, and some careless unbelievers, that now despise Christ and th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gospel, may come to he<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r oftner of it than there be stones in <hi>London</hi> Bridge, or drops of water in the <hi>Thamas</hi> Now to hear of this sin, and to think of that one losse of losses, name<g ref="char:EOLhyphen"/>ly God and Christ, o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God with Christ
+<pb n="47" facs="tcp:206714:27"/>in his arms, which is more than a thou<g ref="char:EOLhyphen"/>sand Rainbous, is a Hel beyond the tongue of Men and Angels to express.</p>
+            <p>I t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uly, Father, I think so too; for I remember yee would give a thing and I would not have it, and then again, I have longed and cried my heart fore, and you would not give it. And as Christ tels the Jewes they should long for one of the days of the Son of Man, and should not have it, <hi>Luke</hi> 17.22. which an old Priest said was Christmas day. so I am perswaded sinners in Hell shal long and long a thousand millions of years for one dram of that sweet mercy and Christ that they so frequently refuse, and there<g ref="char:EOLhyphen"/>fore, Father, I wil believe in Christ, and live to Christ, and love him more, than my Sheep, the Colt, and all the fine things ever you gave me in all my dayes; yea, I wil love him more than my mo<g ref="char:EOLhyphen"/>ther and my brother and my self too, should I not? Yes Child, and he that loves Father, Mother, Wife or Children in comparison of Christ, is not worthy of him, <hi>Mat.</hi> 10 37. much more Name, Fame, Crowns or Kingdoms in com<g ref="char:EOLhyphen"/>parison of his interest in the World.</p>
+            <pb n="48" facs="tcp:206714:28"/>
+            <p>Q. <hi>But was Christ an old man, or a young?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In respect of his God head he was the ancient of daies, the everlast<g ref="char:EOLhyphen"/>ing Father, the <hi>Alpha</hi> and <hi>Omega,</hi> or the first and the last, <hi>Revel.</hi> 1.8. but in respect of his Man hood, he was as young as <hi>Solomon,</hi> but more loving and lovely, yea wiser a thousand times, yet he died for us at three and thirty years of age, and lives, and ever loves, to make intercession for us, when we do or can<g ref="char:EOLhyphen"/>not, yea, whether we pray, sin, live, or die, he alwaies makes intercession for us, <hi>Heb.</hi> 7.25. yet you must say your prayers frequently for all that; so I do Sir, I went, before I would eat one bite to day, into your Chamber, and shut the door, and there kneeled down and said my Prayers from my heart.</p>
+            <p>Q. <hi>Well, and what did you say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I said, pray Lord Jesus Christ forgive me all my sins, pray Lord Jesus Christ make me thy servant whilst I live, and pray Lord Jesus Christ take me to heaven when I die, and I will praise thy Name for ever and ever.</p>
+            <p>Q. <hi>Well Sirrah, but why did you not say the Lords prayer?</hi>
+            </p>
+            <pb n="49" facs="tcp:206714:28"/>
+            <p>
+               <hi>A.</hi> I do sometimes.</p>
+            <p>But that is a Rule to pray by, rather thana set form of words to say over, the ten Commandements is a Rule to walk by, the Belief, that some good men made a Rule, how and who we hope to be saved by; and as a man may work, when the Rule is not in his hand, so he may pray by the Lords Prayer, when the very words are not in his mouth; but every man must be a Believer, that saith that prayer, or else he cannot call God Father, but as Parots prate, and Papists pray, so many Protestants mind as little what they say, as if they were praying to a woodden God, rather than an all<g ref="char:EOLhyphen"/>seeing God, that will be worshipped in Spirit and in Truth, <hi>Iohn</hi> 4.23. abhor<g ref="char:EOLhyphen"/>ing from his soul all forms and worships whatsoever that comes not from the heart; and I wonder what is become of their hearts, that use to preach and fast and pray so much in the late Warrs, tru<g ref="char:EOLhyphen"/>ly I think a great many had been better they had never prayed nor fasted nei<g ref="char:EOLhyphen"/>ther, for things are worse than ever, and Profession is much questioned to be but a meer piece of dissimulation, for
+<pb n="50" facs="tcp:206714:29"/>the world will never trust the Saints a<g ref="char:EOLhyphen"/>gain they are so false; in the mean time St. <hi>Iames</hi> Fields is a building in all haste, yea, every Saint is a building, when St. <hi>Peter</hi> and St. <hi>Paul</hi> were not worth a groat, and every one a Pilgrim then, and I am sure a true one should be a piece of one now; but they loose their love, their zeal, their faith and their prayer, yea the spirit of faith and life in prayer, is much gone from many, and O that this loss were a little considered in our daies especially, by those Souldiers and Officers, who have got so much by Christ and his Cause, as they use to call it, the liberty of the gifted Christian, of which thousands might be found, that would not preach a factious point, a thing of greater consequence, than a<g ref="char:EOLhyphen"/>ny thing we fought or suffered for: 'Tis honor enough to be a Magistrate; and if a Commissioner of the Peace wil free<g ref="char:EOLhyphen"/>ly give his time and pains to reconcile men to men; I wonder no rich Mini<g ref="char:EOLhyphen"/>sters nor Magistrates will do the like to reconcile God and Men, or give them leave that would preach the Word of Reconciliation without money, or try<g ref="char:EOLhyphen"/>ing
+<pb n="51" facs="tcp:206714:29"/>by them, which will never like unless you take it up as a trade; but the old proverb is still good, <hi>No peny no Pater-Noster;</hi> and some hath scarce for their peny that is worth the hearing; and though I love &amp; hear them that be good my self, yet I think in my conscience there are more gifted, well able, sancti<g ref="char:EOLhyphen"/>fied, blameless Christians, than of all that are called Ministers in <hi>England,</hi> &amp; yet I think, three to one of the bulk of them are but Civilisers of the Nation, the Keepers up of Form in opposition to power, under which most perish, and that which Christ will one day abund<g ref="char:EOLhyphen"/>antly abominate, see the <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>x, <hi>Rev.</hi> 3.16. in the mean time they are paid for State-policy, more than any thing else, as a great States-man once said, calling them our Chaplins.</p>
+            <p>Q. <hi>But Sir pray you answer me this Question, doth love ascend or descend?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It descends, for God loves sin<g ref="char:EOLhyphen"/>ners and Parents Children, more than they do them, &amp; my L. Protector would be a great deal more be loved than be is, if he goes on indeed to deny the Crown so importunat<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pressed on him,
+<pb n="52" facs="tcp:206714:30"/>and bend all his force against Anti-christ and strength of Anti-christ, the onely Son of the Beast, or Christian King, as Papists call the Son of perdition, the <hi>King</hi> of <hi>Spain,</hi> whose destruction is certainly near: But what did <hi>Balaam</hi> wish to die the death of the righteous, <hi>Numb.</hi> 23.10. and most men will some<g ref="char:EOLhyphen"/>times sigh and say, O that God, O that Christ, O that Heaven were mine, O that I might live a little longer, that I had done this or that, or never done what I did, I would give for Heaven so much; but what shall it profit a man to gain the World, if he lose his soul, no<g ref="char:EOLhyphen"/>thing saith Christ; <hi>Matt.</hi> 16.26. for thats immortal, ever living, and shall ne<g ref="char:EOLhyphen"/>ver die.</p>
+            <p>Q. <hi>What is meant by the soul?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sometimes the inward, sometimes the outward, sometimes the whole man, and nothing is more pretious than the soul, but God and Christ; who would lose all and a heaven for a moment lust, which will be a home when all is done, as we use to say, and there is no home like to heaven: But Swearers, Drun<g ref="char:EOLhyphen"/>kards, Whores and Harlots, with Hy<g ref="char:EOLhyphen"/>pocrites
+<pb n="53" facs="tcp:206714:30"/>and worldlings forgo this hea<g ref="char:EOLhyphen"/>ven for a hell, and will go to the Devil for their hell, or lusts which leads them on to hell; and money will to money in marriage as long as the world stands, and Saints and Devils couple together, rather than lose a little honour, the off-spring of such who are the best and worst of men in the nation.</p>
+            <p>Q. <hi>But whether do good men go?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To <hi>Abraham,</hi> and <hi>Isaac,</hi> to God, and to Angels: and the bosome of <hi>A<g ref="char:EOLhyphen"/>braham</hi> is <hi>Isaac, Luke</hi> 16, 26. and the bosome of <hi>Isaac</hi> is Christ; yea, he is the bosome of all, <hi>Joh.</hi> 1.18. and he leads all to the bosome of the Father, that will come unto him. O shew us this bosome, and it sufficeth saith <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> unto Christ, <hi>Joh.</hi> 14.8.</p>
+            <p>Q. <hi>But is there any heaven indeed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, in this bosome, and no where else, unless it be in the soul of a heavenly-minded Saint, and there is a heaven also; peace, joy, and commu<g ref="char:EOLhyphen"/>nion with God, in which much of the heaven of heavens lies, in a way of me<g ref="char:EOLhyphen"/>ditation and contemplation of God and his goodness: O how great is that
+<pb n="54" facs="tcp:206714:31"/>saith <hi>David</hi> Psal. 31 19.</p>
+            <p>Q <hi>But what is God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Spirit: and they that worship him must worship in Spirit and in Truth, <hi>Joh.</hi> 4.24. who is that eternal Being, that gives breath and being to all things whatsoever; yea, every thing has his being from him, and shall be disposed by him; he makes fire, hail, ice, snow, <hi>Psal.</hi> 147.16.17 and the Wind to blow when and where he pleaseth, and whilest he flings down one part of the morning stars or Angels, <hi>Job</hi> 38.7. unto the lowest d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of darkness, he raiseth up another part of man into the highest thrones of Glory.</p>
+            <p>Q. <hi>But Fat<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, What be those dens?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s holes.</p>
+            <p>Q. <hi>And what do the Devils do in those dens?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing but drag sinners from one holt unto another.</p>
+            <p>Q. <hi>And what do the sinners do in those holes?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing but move like Serpents from one hole to another, seeking death and cannot find it, <hi>Mic</hi> 7.17.</p>
+            <p>Q. <hi>And what is Christ compared to?</hi>
+            </p>
+            <pb n="55" facs="tcp:206714:31"/>
+            <p>
+               <hi>A.</hi> Every thing that is useful, preti<g ref="char:EOLhyphen"/>ous, sweet, or excellent; and he is more excelling than all thing, or things, a thousand times, he is compared to the Bread of life, <hi>Joh.</hi> 6.50, 58. the Tree of life, <hi>Rev.</hi> 22.2. the Well of life, the Water of life, and that living water which he that drinks shall never thirst, <hi>Joh.</hi> 4.14. he is compared to a Lilly and a Rose; the Rose of <hi>Sharon,</hi> the Lilly of the Valleys, <hi>Cant.</hi> 2.1. to a Vine, to an Apple-tree, and Olive-tree, the fruitful Vine, the fatting Olive, and that tree whose fruit is sweet indeed; and shadow much delighting, <hi>Cant.</hi> 2.3. He is compared to a Treasure, and a Pearl, <hi>Mat.</hi> 16.46. and a pretious Pearl and Rayment is he, <hi>Rev.</hi> 3 18. 1 <hi>Pet.</hi> 2 6 to a Rock, yea the Rock of Ages, and that Rock alone upon which the Church of God stands, and the Gates of Hell shall never prevail, <hi>Mat.</hi> 16.18. In the mean time he is as the shadow of a Rock in a weary Land, <hi>Isa.</hi> 32.2. where milk and hony ever flowes, <hi>Psal.</hi> 81.16. for a thirsty sinner; Come, O my beloved, eate and drink abundantly, yea, make haste and come away, <hi>Cant.</hi> 2, 10, 11,
+<pb n="56" facs="tcp:206714:32"/>yea, he is that good shepherd that layes down his life for his sheep, <hi>Joh.</hi> 10.11. and was led as a sheep to the slaughter: Behold the Lamb of God (saith <hi>John</hi>) that taketh away the sins of the world, <hi>Joh.</hi> 1.29.</p>
+            <p>Q. <hi>Well. But how many Fathers have most Children?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Some two, and some three, that are called so; and some never a one, and that is sad indeed: I had rather have one God, than a thousand Fa<g ref="char:EOLhyphen"/>thers, or Grandfathers, when I come to die he can do me most good, and whilst I live, and therefore they are fools indeed, that do not live to him, nor think upon him till they be old and ugly, yea, and scarce than: when as <hi>Solomon</hi> would have none to stand be<g ref="char:EOLhyphen"/>fore him but such as were young and comely: and saith God, Carry the halt and lame to the Princes, and see whether he will except it; how much more shall I your decrepid services, saith the Lord by <hi>Micah, Mic</hi> 1.13.</p>
+            <p>Q <hi>But what Mothers have you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I have Mother <hi>Earth,</hi> and Mo<g ref="char:EOLhyphen"/>ther <hi>Eve, Mother</hi> bare me, and <hi>Sion</hi> the
+<pb n="57" facs="tcp:206714:32"/>Mother of us all, if we be the faithful Children of God: but if we be not, then there is Mother <hi>Sin,</hi> and Mother <hi>Sinai,</hi> Mother <hi>Death,</hi> and Mother <hi>Hell</hi> to take us all; yea, sin and sorrow that is brought forth by Sin, shall set down, and lay down upon the heads, hearts, and souls of all that will not hearken unto me, saith Christ, <hi>Prov.</hi> 8.32.</p>
+            <p>Q. <hi>But how many Children have some men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Too many a great deal: for it is better a great deal to get never an one, than to get three or four for the Devil: other creatures die but once, but wicked men twice; once when they go from men to the grave, and once when they go from God to the Devil: yet some go in more state a great deal than others; and 'tis a foolish thing to gaze much upon that man who led a wicked life; or to cry, There is a brave Funeral indeed, when he led a vicious one: but Lord keep me from that second Death, which is that death of deaths, <hi>Rev.</hi> 20.14. though I want a grave for my bed, or a skin for my bones: Young men are fools, old men are wise; yet I sel<g ref="char:EOLhyphen"/>dome
+<pb n="58" facs="tcp:206714:33"/>know any of them converted, or doth the world by all its wisdom find out God, 1 Cor. 2 6 7, 8 9, or the true knowledge of God. O Lord open my eyes, that I may see the wondrous things of thy Law, saith <hi>David, Psal</hi> 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9 and a thousand Laws should never keep a man from his God, or doing that thing that lies in his power to honor God.</p>
+            <p>Q. <hi>Who denied Christ?</hi>
+            </p>
+            <p>
+               <hi>A. Peter John</hi> 18, 17.</p>
+            <p>
+               <hi>Q.</hi> And who confest him?</p>
+            <p>
+               <hi>A. Thomas</hi> wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n he cryed, My Lord and my God, <hi>Iohn</hi> 20 28.</p>
+            <p>
+               <hi>Q. Who persecuted Christ?</hi>
+            </p>
+            <p>
+               <hi>A. Paul, Acts</hi> 9.4 and preached him more than any man; so that the worst sinner makes the best Saint some<g ref="char:EOLhyphen"/>times.</p>
+            <p>
+               <hi>Q. Who murdered his brother?</hi>
+            </p>
+            <p>
+               <hi>A. Cain,</hi> and every one is a Murderer of his brother that hateth his brother in his heart, as Christ expounds the Law, <hi>Matth.</hi> 5 22.28</p>
+            <p>Q. <hi>But who is your true Brother?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Christ, and he that believes in Christ; we are all brethren in the purpose of God, the merits of Christ, union with
+<pb n="59" facs="tcp:206714:33"/>Christ, or visible profession of Christ, I know no other Gospel-brotherhood than this: there is a hollish brotherhood between Whores and H<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rlots, knots of Drunkards, Thieves and Cheaters go all together; yet more are damned for meer civilty, and having nothing else but ci<g ref="char:EOLhyphen"/>vility, than al<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the open sins in the world.</p>
+            <p>Q. <hi>But what must you do if you will be savea?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I must fast and pray, love mercy, and do justly, live uprightly, and walk honestly, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d yet believe; for that <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore than all in order to salvation. For if a man should fast and pray, and c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Lord have mercy upon me, Lord have merc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> upon me, and ye<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> should not roll his soul upon that mercy that is from everlasting to everlasting, 'twere to no purpose. Some men cannot believe, and some men shal not whilst they live, if they strive for qualifications, they must be so and so bef<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re they can bel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eve. Some would be no sinner before they would be a Saint, or believ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and lay hold on the promise of eternal life: But Sai<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and Sinner go together, and dwel together in one and the same skin, and a grain
+<pb n="60" facs="tcp:206714:34"/>must be allowed to the best man I know in all the world, and the best skin is the Righteousness of Christ, and I had ra<g ref="char:EOLhyphen"/>ther be in that than mine own a thousand times: Christs active and Christs passive obedience, is that righteousness wherein the Father justifies the Son, and the Sun justifies us: For you know he did all, and suffered all in our behalfe in his na<g ref="char:EOLhyphen"/>ture on the Tree, from all hands especi<g ref="char:EOLhyphen"/>ally the Fathers.</p>
+            <p>Q. <hi>What did God do then wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n he made him cry out, My God, My God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Nothing but kil him, and let him go,</p>
+            <p>Q <hi>Why did God kill him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because he could not be a Sacrifice nor a Testator of the new Covenant else.</p>
+            <p>Q. <hi>What doth the new Covenant say?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Believe and live, or rather live and believe. But the old is, Do, Do, and re<g ref="char:EOLhyphen"/>quires nothing but doing til it breaketh the poor heart with endeavouring what we can never do.</p>
+            <p>
+               <hi>Q. Can you build a House?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and sooner go to <hi>Rome</hi> than keep one of the ten Comandements as I should. Do you think I can look upon
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
